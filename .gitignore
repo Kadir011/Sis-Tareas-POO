@@ -1,0 +1,11 @@
+#Ignorar pycache de todas las carpetas
+__pycache__/
+*/__pycache__/
+
+#Ignorar archivos de configuración
+.vscode/
+
+#Ignorar carpeta json y archivos .json
+json/
+*.json
+
