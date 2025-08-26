@@ -5,7 +5,6 @@ __pycache__/
 #Ignorar archivos de configuración
 .vscode/
 
-#Ignorar carpeta json y archivos .json
-json/
+#Ignorar archivos .json
 *.json
 
